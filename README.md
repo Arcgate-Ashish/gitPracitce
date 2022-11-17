@@ -1,2 +1,4 @@
-# gitPracitce
+# Git Pracitce
 Ashish singh bhati
+
+
